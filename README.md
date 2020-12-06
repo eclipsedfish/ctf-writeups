@@ -1,5 +1,5 @@
 # ctf-writeups
-Writeups for Capture-The-Flag event(s)
+My writeups for Capture-The-Flag event(s)
 
 <div>
   <h1>STACK the Flags 2020</h1>
