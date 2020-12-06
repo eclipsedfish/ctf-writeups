@@ -17,7 +17,16 @@ Writeups for Capture-The-Flag event(s)
     </thead>
     <tbody>
       <tr>
-        <td>Diving In</td><td>Hi</td>
+        <td>Only time will tell!</td><td>Hi</td>
+      </tr>
+      <tr>
+        <td>What is he working on? Some high value Project?</td><td>Hi</td>
+      </tr>
+      <tr>
+        <td>Sounds of freedom!</td><td>Hi</td>
+      </tr>
+      <tr>
+        <td>Who are the possible kidnappers?</td><td>Hi</td>
       </tr>
     </tbody>
     <thead>
@@ -25,7 +34,10 @@ Writeups for Capture-The-Flag event(s)
     </thead>
     <tbody>
       <tr>
-        <td>Diving In</td><td>Hi</td>
+        <td>Can you trick OrgX into giving away their credentials?</td><td>Hi</td>
+      </tr>
+      <tr>
+        <td>Find the last seen location of where one of the Korovax's staff is at.</td><td>Hi</td>
       </tr>
     </tbody>
     <thead>
@@ -33,7 +45,10 @@ Writeups for Capture-The-Flag event(s)
     </thead>
     <tbody>
       <tr>
-        <td>Diving In</td><td>Hi</td>
+        <td>Unblock Me</td><td>Hi</td>
+      </tr>
+      <tr>
+        <td>Logged In</td><td>Hi</td>
       </tr>
     </tbody>
   
