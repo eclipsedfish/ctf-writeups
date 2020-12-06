@@ -45,7 +45,7 @@ My writeups for Capture-The-Flag event(s)
     </thead>
     <tbody>
       <tr>
-        <td>Unblock Me</td><td><a href="https://github.com/eclipsedfish/ctf-writeups/tree/main/stack%20the%20flags%202020/web%20challenges/unblock%20me">View Here</a></td>
+        <td>Unblock Me</td><td><a href="https://github.com/eclipsedfish/ctf-writeups/tree/main/stack%20the%20flags%202020/web%20challenges/unlock%20me">View Here</a></td>
       </tr>
       <tr>
         <td>Logged In</td><td><a href="https://github.com/eclipsedfish/ctf-writeups/tree/main/stack%20the%20flags%202020/web%20challenges/logged%20in">View Here</a></td>
