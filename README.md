@@ -9,7 +9,7 @@ My writeups for Capture-The-Flag event(s)
     </thead>
     <tbody>
       <tr>
-        <td>Diving In</td><td>Hi</td>
+        <td>Diving In</td><td>-</td>
       </tr>
     </tbody>
     <thead>
@@ -20,7 +20,7 @@ My writeups for Capture-The-Flag event(s)
         <td>Only time will tell!</td><td>-</td>
       </tr>
       <tr>
-        <td>What is he working on? Some high value Project?</td><td>Hi</td>
+        <td>What is he working on? Some high value Project?</td><td>-</td>
       </tr>
       <tr>
         <td>Sounds of freedom!</td><td>-</td>
@@ -51,7 +51,7 @@ My writeups for Capture-The-Flag event(s)
         <td>Logged In</td><td><a href="https://github.com/eclipsedfish/ctf-writeups/tree/main/stack%20the%20flags%202020/web%20challenges/logged%20in">View Here</a></td>
       </tr>
     </tbody>
-  
   </table>
+  *Didnt have time to finish the rest of the writeups :/ 
 </div>
  
