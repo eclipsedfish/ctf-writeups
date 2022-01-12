@@ -16,6 +16,5 @@ My writeups for CTFs
       </tr>
     </tbody>
   </table>
-  *Didnt have time to finish the rest of the writeups :/ 
 </div>
  
